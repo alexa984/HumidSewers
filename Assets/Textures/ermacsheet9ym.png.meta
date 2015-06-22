@@ -1,0 +1,1232 @@
+fileFormatVersion: 2
+guid: 49b92e297f9e13e4e9f88fb959a60dcd
+timeCreated: 1434728785
+licenseType: Free
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: ermacsheet9ym_0
+    21300002: ermacsheet9ym_1
+    21300004: ermacsheet9ym_2
+    21300006: ermacsheet9ym_3
+    21300008: ermacsheet9ym_4
+    21300010: ermacsheet9ym_5
+    21300012: ermacsheet9ym_6
+    21300014: ermacsheet9ym_7
+    21300016: ermacsheet9ym_8
+    21300018: ermacsheet9ym_9
+    21300020: ermacsheet9ym_10
+    21300022: ermacsheet9ym_11
+    21300024: ermacsheet9ym_12
+    21300026: ermacsheet9ym_13
+    21300028: ermacsheet9ym_14
+    21300030: ermacsheet9ym_15
+    21300032: ermacsheet9ym_16
+    21300034: ermacsheet9ym_17
+    21300036: ermacsheet9ym_18
+    21300038: ermacsheet9ym_19
+    21300040: ermacsheet9ym_20
+    21300042: ermacsheet9ym_21
+    21300044: ermacsheet9ym_22
+    21300046: ermacsheet9ym_23
+    21300048: ermacsheet9ym_24
+    21300050: ermacsheet9ym_25
+    21300052: ermacsheet9ym_26
+    21300054: ermacsheet9ym_27
+    21300056: ermacsheet9ym_28
+    21300058: ermacsheet9ym_29
+    21300060: ermacsheet9ym_30
+    21300062: ermacsheet9ym_31
+    21300064: ermacsheet9ym_32
+    21300066: ermacsheet9ym_33
+    21300068: ermacsheet9ym_34
+    21300070: ermacsheet9ym_35
+    21300072: ermacsheet9ym_36
+    21300074: ermacsheet9ym_37
+    21300076: ermacsheet9ym_38
+    21300078: ermacsheet9ym_39
+    21300080: ermacsheet9ym_40
+    21300082: ermacsheet9ym_41
+    21300084: ermacsheet9ym_42
+    21300086: ermacsheet9ym_43
+    21300088: ermacsheet9ym_44
+    21300090: ermacsheet9ym_45
+    21300092: ermacsheet9ym_46
+    21300094: ermacsheet9ym_47
+    21300096: ermacsheet9ym_48
+    21300098: ermacsheet9ym_49
+    21300100: ermacsheet9ym_50
+    21300102: ermacsheet9ym_51
+    21300104: ermacsheet9ym_52
+    21300106: ermacsheet9ym_53
+    21300108: ermacsheet9ym_54
+    21300110: ermacsheet9ym_55
+    21300112: ermacsheet9ym_56
+    21300114: ermacsheet9ym_57
+    21300116: ermacsheet9ym_58
+    21300118: ermacsheet9ym_59
+    21300120: ermacsheet9ym_60
+    21300122: ermacsheet9ym_61
+    21300124: ermacsheet9ym_62
+    21300126: ermacsheet9ym_63
+    21300128: ermacsheet9ym_64
+    21300130: ermacsheet9ym_65
+    21300132: ermacsheet9ym_66
+    21300134: ermacsheet9ym_67
+    21300136: ermacsheet9ym_68
+    21300138: ermacsheet9ym_69
+    21300140: ermacsheet9ym_70
+    21300142: ermacsheet9ym_71
+    21300144: ermacsheet9ym_72
+    21300146: ermacsheet9ym_73
+    21300148: ermacsheet9ym_74
+    21300150: ermacsheet9ym_75
+    21300152: ermacsheet9ym_76
+    21300154: ermacsheet9ym_77
+    21300156: ermacsheet9ym_78
+    21300158: ermacsheet9ym_79
+    21300160: ermacsheet9ym_80
+    21300162: ermacsheet9ym_81
+    21300164: ermacsheet9ym_82
+    21300166: ermacsheet9ym_83
+    21300168: ermacsheet9ym_84
+    21300170: ermacsheet9ym_85
+    21300172: ermacsheet9ym_86
+    21300174: ermacsheet9ym_87
+    21300176: ermacsheet9ym_88
+    21300178: ermacsheet9ym_89
+    21300180: ermacsheet9ym_90
+    21300182: ermacsheet9ym_91
+    21300184: ermacsheet9ym_92
+    21300186: ermacsheet9ym_93
+    21300188: ermacsheet9ym_94
+    21300190: ermacsheet9ym_95
+    21300192: ermacsheet9ym_96
+    21300194: ermacsheet9ym_97
+    21300196: ermacsheet9ym_98
+    21300198: ermacsheet9ym_99
+    21300200: ermacsheet9ym_100
+    21300202: ermacsheet9ym_101
+    21300204: ermacsheet9ym_102
+    21300206: ermacsheet9ym_103
+    21300208: ermacsheet9ym_104
+    21300210: ermacsheet9ym_105
+    21300212: ermacsheet9ym_106
+  serializedVersion: 2
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 1
+    linearTexture: 0
+    correctGamma: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: .25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 0
+  cubemapConvolution: 0
+  cubemapConvolutionSteps: 8
+  cubemapConvolutionExponent: 1.5
+  seamlessCubemap: 0
+  textureFormat: -1
+  maxTextureSize: 2048
+  textureSettings:
+    filterMode: -1
+    aniso: 16
+    mipBias: -1
+    wrapMode: 1
+  nPOTScale: 0
+  lightmap: 0
+  rGBM: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: .5, y: .5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 100
+  alphaIsTransparency: 1
+  textureType: 8
+  buildTargetSettings: []
+  spriteSheet:
+    sprites:
+    - name: ermacsheet9ym_0
+      rect:
+        serializedVersion: 2
+        x: 181
+        y: 3440
+        width: 72
+        height: 135
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: ermacsheet9ym_1
+      rect:
+        serializedVersion: 2
+        x: 260
+        y: 3440
+        width: 75
+        height: 133
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: ermacsheet9ym_2
+      rect:
+        serializedVersion: 2
+        x: 342
+        y: 3444
+        width: 71
+        height: 131
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: ermacsheet9ym_3
+      rect:
+        serializedVersion: 2
+        x: 416
+        y: 3440
+        width: 65
+        height: 135
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: ermacsheet9ym_4
+      rect:
+        serializedVersion: 2
+        x: 495
+        y: 3440
+        width: 65
+        height: 137
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: ermacsheet9ym_5
+      rect:
+        serializedVersion: 2
+        x: 568
+        y: 3444
+        width: 64
+        height: 136
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: ermacsheet9ym_6
+      rect:
+        serializedVersion: 2
+        x: 640
+        y: 3442
+        width: 67
+        height: 137
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: ermacsheet9ym_7
+      rect:
+        serializedVersion: 2
+        x: 521
+        y: 3428
+        width: 5
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: ermacsheet9ym_8
+      rect:
+        serializedVersion: 2
+        x: 421
+        y: 3258
+        width: 58
+        height: 168
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: ermacsheet9ym_9
+      rect:
+        serializedVersion: 2
+        x: 497
+        y: 3258
+        width: 63
+        height: 161
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: ermacsheet9ym_10
+      rect:
+        serializedVersion: 2
+        x: 572
+        y: 3256
+        width: 67
+        height: 149
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: ermacsheet9ym_11
+      rect:
+        serializedVersion: 2
+        x: 647
+        y: 3265
+        width: 62
+        height: 142
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: ermacsheet9ym_12
+      rect:
+        serializedVersion: 2
+        x: 164
+        y: 3102
+        width: 73
+        height: 140
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: ermacsheet9ym_13
+      rect:
+        serializedVersion: 2
+        x: 246
+        y: 3104
+        width: 74
+        height: 138
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: ermacsheet9ym_14
+      rect:
+        serializedVersion: 2
+        x: 325
+        y: 3105
+        width: 74
+        height: 139
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: ermacsheet9ym_15
+      rect:
+        serializedVersion: 2
+        x: 404
+        y: 3105
+        width: 72
+        height: 139
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: ermacsheet9ym_16
+      rect:
+        serializedVersion: 2
+        x: 477
+        y: 3104
+        width: 72
+        height: 142
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: ermacsheet9ym_17
+      rect:
+        serializedVersion: 2
+        x: 553
+        y: 3102
+        width: 72
+        height: 142
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: ermacsheet9ym_18
+      rect:
+        serializedVersion: 2
+        x: 633
+        y: 3105
+        width: 84
+        height: 141
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: ermacsheet9ym_19
+      rect:
+        serializedVersion: 2
+        x: 560
+        y: 2930
+        width: 75
+        height: 140
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: ermacsheet9ym_20
+      rect:
+        serializedVersion: 2
+        x: 640
+        y: 2932
+        width: 72
+        height: 140
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: ermacsheet9ym_21
+      rect:
+        serializedVersion: 2
+        x: 307
+        y: 2781
+        width: 69
+        height: 86
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: ermacsheet9ym_22
+      rect:
+        serializedVersion: 2
+        x: 390
+        y: 2779
+        width: 72
+        height: 86
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: ermacsheet9ym_23
+      rect:
+        serializedVersion: 2
+        x: 474
+        y: 2778
+        width: 65
+        height: 82
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: ermacsheet9ym_24
+      rect:
+        serializedVersion: 2
+        x: 556
+        y: 2779
+        width: 65
+        height: 105
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: ermacsheet9ym_25
+      rect:
+        serializedVersion: 2
+        x: 637
+        y: 2776
+        width: 72
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: ermacsheet9ym_26
+      rect:
+        serializedVersion: 2
+        x: 476
+        y: 2607
+        width: 80
+        height: 109
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: ermacsheet9ym_27
+      rect:
+        serializedVersion: 2
+        x: 556
+        y: 2607
+        width: 79
+        height: 151
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: ermacsheet9ym_28
+      rect:
+        serializedVersion: 2
+        x: 644
+        y: 2604
+        width: 70
+        height: 103
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: ermacsheet9ym_29
+      rect:
+        serializedVersion: 2
+        x: 124
+        y: 2430
+        width: 68
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: ermacsheet9ym_30
+      rect:
+        serializedVersion: 2
+        x: 208
+        y: 2432
+        width: 63
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: ermacsheet9ym_31
+      rect:
+        serializedVersion: 2
+        x: 281
+        y: 2434
+        width: 60
+        height: 68
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: ermacsheet9ym_32
+      rect:
+        serializedVersion: 2
+        x: 355
+        y: 2434
+        width: 56
+        height: 63
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: ermacsheet9ym_33
+      rect:
+        serializedVersion: 2
+        x: 423
+        y: 2437
+        width: 70
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: ermacsheet9ym_34
+      rect:
+        serializedVersion: 2
+        x: 505
+        y: 2439
+        width: 62
+        height: 58
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: ermacsheet9ym_35
+      rect:
+        serializedVersion: 2
+        x: 581
+        y: 2430
+        width: 59
+        height: 72
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: ermacsheet9ym_36
+      rect:
+        serializedVersion: 2
+        x: 647
+        y: 2427
+        width: 65
+        height: 149
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: ermacsheet9ym_37
+      rect:
+        serializedVersion: 2
+        x: 190
+        y: 2257
+        width: 96
+        height: 144
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: ermacsheet9ym_38
+      rect:
+        serializedVersion: 2
+        x: 286
+        y: 2259
+        width: 83
+        height: 145
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: ermacsheet9ym_39
+      rect:
+        serializedVersion: 2
+        x: 449
+        y: 2264
+        width: 105
+        height: 142
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: ermacsheet9ym_40
+      rect:
+        serializedVersion: 2
+        x: 563
+        y: 2266
+        width: 72
+        height: 143
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: ermacsheet9ym_41
+      rect:
+        serializedVersion: 2
+        x: 649
+        y: 2267
+        width: 61
+        height: 142
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: ermacsheet9ym_42
+      rect:
+        serializedVersion: 2
+        x: 272
+        y: 2087
+        width: 100
+        height: 142
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: ermacsheet9ym_43
+      rect:
+        serializedVersion: 2
+        x: 451
+        y: 2085
+        width: 105
+        height: 142
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: ermacsheet9ym_44
+      rect:
+        serializedVersion: 2
+        x: 556
+        y: 2087
+        width: 83
+        height: 142
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: ermacsheet9ym_45
+      rect:
+        serializedVersion: 2
+        x: 649
+        y: 2085
+        width: 61
+        height: 142
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: ermacsheet9ym_46
+      rect:
+        serializedVersion: 2
+        x: 400
+        y: 1915
+        width: 62
+        height: 142
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: ermacsheet9ym_47
+      rect:
+        serializedVersion: 2
+        x: 477
+        y: 1915
+        width: 76
+        height: 146
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: ermacsheet9ym_48
+      rect:
+        serializedVersion: 2
+        x: 563
+        y: 1917
+        width: 72
+        height: 140
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: ermacsheet9ym_49
+      rect:
+        serializedVersion: 2
+        x: 654
+        y: 1920
+        width: 60
+        height: 132
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: ermacsheet9ym_50
+      rect:
+        serializedVersion: 2
+        x: 423
+        y: 1782
+        width: 105
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: ermacsheet9ym_51
+      rect:
+        serializedVersion: 2
+        x: 540
+        y: 1787
+        width: 85
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: ermacsheet9ym_52
+      rect:
+        serializedVersion: 2
+        x: 642
+        y: 1784
+        width: 74
+        height: 93
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: ermacsheet9ym_53
+      rect:
+        serializedVersion: 2
+        x: 253
+        y: 1614
+        width: 60
+        height: 159
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: ermacsheet9ym_54
+      rect:
+        serializedVersion: 2
+        x: 325
+        y: 1617
+        width: 91
+        height: 167
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: ermacsheet9ym_55
+      rect:
+        serializedVersion: 2
+        x: 421
+        y: 1622
+        width: 119
+        height: 139
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: ermacsheet9ym_56
+      rect:
+        serializedVersion: 2
+        x: 558
+        y: 1622
+        width: 74
+        height: 120
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: ermacsheet9ym_57
+      rect:
+        serializedVersion: 2
+        x: 651
+        y: 1619
+        width: 61
+        height: 103
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: ermacsheet9ym_58
+      rect:
+        serializedVersion: 2
+        x: 374
+        y: 1496
+        width: 151
+        height: 90
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: ermacsheet9ym_59
+      rect:
+        serializedVersion: 2
+        x: 535
+        y: 1496
+        width: 104
+        height: 90
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: ermacsheet9ym_60
+      rect:
+        serializedVersion: 2
+        x: 644
+        y: 1498
+        width: 70
+        height: 91
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: ermacsheet9ym_61
+      rect:
+        serializedVersion: 2
+        x: 34
+        y: 1335
+        width: 121
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: ermacsheet9ym_62
+      rect:
+        serializedVersion: 2
+        x: 162
+        y: 1333
+        width: 128
+        height: 125
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: ermacsheet9ym_63
+      rect:
+        serializedVersion: 2
+        x: 297
+        y: 1333
+        width: 96
+        height: 118
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: ermacsheet9ym_64
+      rect:
+        serializedVersion: 2
+        x: 397
+        y: 1335
+        width: 66
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: ermacsheet9ym_65
+      rect:
+        serializedVersion: 2
+        x: 472
+        y: 1331
+        width: 75
+        height: 141
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: ermacsheet9ym_66
+      rect:
+        serializedVersion: 2
+        x: 558
+        y: 1333
+        width: 70
+        height: 146
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: ermacsheet9ym_67
+      rect:
+        serializedVersion: 2
+        x: 647
+        y: 1333
+        width: 65
+        height: 144
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: ermacsheet9ym_68
+      rect:
+        serializedVersion: 2
+        x: 472
+        y: 1163
+        width: 82
+        height: 135
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: ermacsheet9ym_69
+      rect:
+        serializedVersion: 2
+        x: 565
+        y: 1168
+        width: 58
+        height: 141
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: ermacsheet9ym_70
+      rect:
+        serializedVersion: 2
+        x: 647
+        y: 1165
+        width: 72
+        height: 140
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: ermacsheet9ym_71
+      rect:
+        serializedVersion: 2
+        x: 18
+        y: 981
+        width: 58
+        height: 140
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: ermacsheet9ym_72
+      rect:
+        serializedVersion: 2
+        x: 90
+        y: 984
+        width: 65
+        height: 132
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: ermacsheet9ym_73
+      rect:
+        serializedVersion: 2
+        x: 164
+        y: 990
+        width: 91
+        height: 119
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: ermacsheet9ym_74
+      rect:
+        serializedVersion: 2
+        x: 255
+        y: 991
+        width: 112
+        height: 130
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: ermacsheet9ym_75
+      rect:
+        serializedVersion: 2
+        x: 371
+        y: 995
+        width: 98
+        height: 114
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: ermacsheet9ym_76
+      rect:
+        serializedVersion: 2
+        x: 472
+        y: 995
+        width: 72
+        height: 117
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: ermacsheet9ym_77
+      rect:
+        serializedVersion: 2
+        x: 554
+        y: 993
+        width: 55
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: ermacsheet9ym_78
+      rect:
+        serializedVersion: 2
+        x: 628
+        y: 995
+        width: 84
+        height: 133
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: ermacsheet9ym_79
+      rect:
+        serializedVersion: 2
+        x: 498
+        y: 832
+        width: 109
+        height: 117
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: ermacsheet9ym_80
+      rect:
+        serializedVersion: 2
+        x: 619
+        y: 828
+        width: 76
+        height: 116
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: ermacsheet9ym_81
+      rect:
+        serializedVersion: 2
+        x: 356
+        y: 706
+        width: 132
+        height: 98
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: ermacsheet9ym_82
+      rect:
+        serializedVersion: 2
+        x: 495
+        y: 707
+        width: 96
+        height: 95
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: ermacsheet9ym_83
+      rect:
+        serializedVersion: 2
+        x: 621
+        y: 702
+        width: 72
+        height: 93
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: ermacsheet9ym_84
+      rect:
+        serializedVersion: 2
+        x: 99
+        y: 583
+        width: 105
+        height: 72
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: ermacsheet9ym_85
+      rect:
+        serializedVersion: 2
+        x: 213
+        y: 583
+        width: 117
+        height: 65
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: ermacsheet9ym_86
+      rect:
+        serializedVersion: 2
+        x: 341
+        y: 581
+        width: 101
+        height: 77
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: ermacsheet9ym_87
+      rect:
+        serializedVersion: 2
+        x: 453
+        y: 583
+        width: 84
+        height: 77
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: ermacsheet9ym_88
+      rect:
+        serializedVersion: 2
+        x: 556
+        y: 585
+        width: 67
+        height: 77
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: ermacsheet9ym_89
+      rect:
+        serializedVersion: 2
+        x: 644
+        y: 583
+        width: 70
+        height: 75
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: ermacsheet9ym_90
+      rect:
+        serializedVersion: 2
+        x: 39
+        y: 413
+        width: 102
+        height: 103
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: ermacsheet9ym_91
+      rect:
+        serializedVersion: 2
+        x: 157
+        y: 416
+        width: 77
+        height: 93
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: ermacsheet9ym_92
+      rect:
+        serializedVersion: 2
+        x: 234
+        y: 423
+        width: 133
+        height: 70
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: ermacsheet9ym_93
+      rect:
+        serializedVersion: 2
+        x: 372
+        y: 430
+        width: 91
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: ermacsheet9ym_94
+      rect:
+        serializedVersion: 2
+        x: 479
+        y: 430
+        width: 67
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: ermacsheet9ym_95
+      rect:
+        serializedVersion: 2
+        x: 621
+        y: 430
+        width: 98
+        height: 104
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: ermacsheet9ym_96
+      rect:
+        serializedVersion: 2
+        x: 477
+        y: 262
+        width: 63
+        height: 144
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: ermacsheet9ym_97
+      rect:
+        serializedVersion: 2
+        x: 563
+        y: 266
+        width: 65
+        height: 142
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: ermacsheet9ym_98
+      rect:
+        serializedVersion: 2
+        x: 640
+        y: 264
+        width: 70
+        height: 142
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: ermacsheet9ym_99
+      rect:
+        serializedVersion: 2
+        x: 474
+        y: 145
+        width: 70
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: ermacsheet9ym_100
+      rect:
+        serializedVersion: 2
+        x: 561
+        y: 148
+        width: 67
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: ermacsheet9ym_101
+      rect:
+        serializedVersion: 2
+        x: 640
+        y: 146
+        width: 72
+        height: 97
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: ermacsheet9ym_102
+      rect:
+        serializedVersion: 2
+        x: 216
+        y: 11
+        width: 86
+        height: 86
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: ermacsheet9ym_103
+      rect:
+        serializedVersion: 2
+        x: 306
+        y: 4
+        width: 86
+        height: 85
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: ermacsheet9ym_104
+      rect:
+        serializedVersion: 2
+        x: 395
+        y: 6
+        width: 86
+        height: 86
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: ermacsheet9ym_105
+      rect:
+        serializedVersion: 2
+        x: 484
+        y: 6
+        width: 79
+        height: 65
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: ermacsheet9ym_106
+      rect:
+        serializedVersion: 2
+        x: 563
+        y: 11
+        width: 86
+        height: 102
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+  spritePackingTag: 
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

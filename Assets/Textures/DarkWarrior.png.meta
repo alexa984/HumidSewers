@@ -1,0 +1,1452 @@
+fileFormatVersion: 2
+guid: 23c124a62606a4f49a83820ccec334b3
+timeCreated: 1434727220
+licenseType: Free
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: DarkWarrior_16
+    21300002: DarkWarrior_17
+    21300004: DarkWarrior_18
+    21300006: DarkWarrior_19
+    21300008: DarkWarrior_20
+    21300010: DarkWarrior_21
+    21300012: DarkWarrior_22
+    21300014: DarkWarrior_23
+    21300016: DarkWarrior_24
+    21300018: DarkWarrior_25
+    21300020: DarkWarrior_26
+    21300022: DarkWarrior_27
+    21300024: DarkWarrior_28
+    21300026: DarkWarrior_29
+    21300028: DarkWarrior_30
+    21300030: DarkWarrior_31
+    21300032: DarkWarrior_32
+    21300034: DarkWarrior_33
+    21300036: DarkWarrior_34
+    21300038: DarkWarrior_35
+    21300040: DarkWarrior_36
+    21300042: DarkWarrior_37
+    21300044: DarkWarrior_38
+    21300046: DarkWarrior_39
+    21300048: DarkWarrior_40
+    21300050: DarkWarrior_41
+    21300052: DarkWarrior_42
+    21300054: DarkWarrior_43
+    21300056: DarkWarrior_44
+    21300058: DarkWarrior_45
+    21300060: DarkWarrior_77
+    21300062: DarkWarrior_78
+    21300064: DarkWarrior_79
+    21300066: DarkWarrior_80
+    21300068: DarkWarrior_81
+    21300070: DarkWarrior_82
+    21300072: DarkWarrior_83
+    21300074: DarkWarrior_84
+    21300076: DarkWarrior_85
+    21300078: DarkWarrior_86
+    21300080: DarkWarrior_111
+    21300082: DarkWarrior_112
+    21300084: DarkWarrior_113
+    21300086: DarkWarrior_114
+    21300088: DarkWarrior_115
+    21300090: DarkWarrior_116
+    21300092: DarkWarrior_117
+    21300094: DarkWarrior_118
+    21300096: DarkWarrior_119
+    21300098: DarkWarrior_120
+    21300100: DarkWarrior_121
+    21300102: DarkWarrior_122
+    21300104: DarkWarrior_123
+    21300106: DarkWarrior_124
+    21300108: DarkWarrior_125
+    21300110: DarkWarrior_126
+    21300112: DarkWarrior_127
+    21300114: DarkWarrior_128
+    21300116: DarkWarrior_129
+    21300118: DarkWarrior_130
+    21300120: DarkWarrior_150
+    21300122: DarkWarrior_151
+    21300124: DarkWarrior_152
+    21300126: DarkWarrior_158
+    21300128: DarkWarrior_165
+    21300130: DarkWarrior_166
+    21300132: DarkWarrior_167
+    21300134: DarkWarrior_168
+    21300136: DarkWarrior_169
+    21300138: DarkWarrior_170
+    21300140: DarkWarrior_171
+    21300142: DarkWarrior_172
+    21300144: DarkWarrior_173
+    21300146: DarkWarrior_174
+    21300148: DarkWarrior_175
+    21300150: DarkWarrior_176
+    21300152: DarkWarrior_177
+    21300154: DarkWarrior_178
+    21300156: DarkWarrior_179
+    21300158: DarkWarrior_180
+    21300160: DarkWarrior_181
+    21300162: DarkWarrior_182
+    21300164: DarkWarrior_183
+    21300166: DarkWarrior_184
+    21300168: DarkWarrior_185
+    21300170: DarkWarrior_186
+    21300172: DarkWarrior_187
+    21300174: DarkWarrior_188
+    21300176: DarkWarrior_189
+    21300178: DarkWarrior_190
+    21300180: DarkWarrior_191
+    21300182: DarkWarrior_192
+    21300184: DarkWarrior_193
+    21300186: DarkWarrior_194
+    21300188: DarkWarrior_195
+    21300190: DarkWarrior_196
+    21300192: DarkWarrior_197
+    21300194: DarkWarrior_198
+    21300196: DarkWarrior_202
+    21300198: DarkWarrior_46
+    21300200: DarkWarrior_47
+    21300202: DarkWarrior_48
+    21300204: DarkWarrior_49
+    21300206: DarkWarrior_50
+    21300208: DarkWarrior_51
+    21300210: DarkWarrior_52
+    21300212: DarkWarrior_53
+    21300214: DarkWarrior_54
+    21300216: DarkWarrior_55
+    21300218: DarkWarrior_56
+    21300220: DarkWarrior_57
+    21300222: DarkWarrior_58
+    21300224: DarkWarrior_59
+    21300226: DarkWarrior_60
+    21300228: DarkWarrior_62
+    21300230: DarkWarrior_61
+    21300232: DarkWarrior_63
+    21300234: DarkWarrior_64
+    21300236: DarkWarrior_65
+    21300238: DarkWarrior_66
+    21300240: DarkWarrior_67
+    21300242: DarkWarrior_68
+    21300244: DarkWarrior_69
+    21300246: DarkWarrior_70
+    21300248: DarkWarrior_71
+    21300250: DarkWarrior_72
+    21300252: DarkWarrior_73
+  serializedVersion: 2
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 1
+    linearTexture: 0
+    correctGamma: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: .25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 0
+  cubemapConvolution: 0
+  cubemapConvolutionSteps: 8
+  cubemapConvolutionExponent: 1.5
+  seamlessCubemap: 0
+  textureFormat: -1
+  maxTextureSize: 2048
+  textureSettings:
+    filterMode: -1
+    aniso: 16
+    mipBias: -1
+    wrapMode: 1
+  nPOTScale: 0
+  lightmap: 0
+  rGBM: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: .5, y: .5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 100
+  alphaIsTransparency: 1
+  textureType: 8
+  buildTargetSettings: []
+  spriteSheet:
+    sprites:
+    - name: DarkWarrior_16
+      rect:
+        serializedVersion: 2
+        x: 23
+        y: 2621
+        width: 54
+        height: 151
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: DarkWarrior_17
+      rect:
+        serializedVersion: 2
+        x: 100
+        y: 2621
+        width: 69
+        height: 151
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: DarkWarrior_18
+      rect:
+        serializedVersion: 2
+        x: 183
+        y: 2621
+        width: 67
+        height: 151
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: DarkWarrior_19
+      rect:
+        serializedVersion: 2
+        x: 263
+        y: 2621
+        width: 54
+        height: 151
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: DarkWarrior_20
+      rect:
+        serializedVersion: 2
+        x: 337
+        y: 2621
+        width: 67
+        height: 151
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: DarkWarrior_21
+      rect:
+        serializedVersion: 2
+        x: 424
+        y: 2621
+        width: 69
+        height: 151
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: DarkWarrior_22
+      rect:
+        serializedVersion: 2
+        x: 14
+        y: 2439
+        width: 149
+        height: 149
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: DarkWarrior_23
+      rect:
+        serializedVersion: 2
+        x: 176
+        y: 2439
+        width: 167
+        height: 143
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: DarkWarrior_24
+      rect:
+        serializedVersion: 2
+        x: 375
+        y: 2439
+        width: 142
+        height: 167
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: DarkWarrior_25
+      rect:
+        serializedVersion: 2
+        x: 536
+        y: 2439
+        width: 142
+        height: 163
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: DarkWarrior_26
+      rect:
+        serializedVersion: 2
+        x: 696
+        y: 2439
+        width: 142
+        height: 166
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: DarkWarrior_27
+      rect:
+        serializedVersion: 2
+        x: 852
+        y: 2439
+        width: 167
+        height: 143
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: DarkWarrior_28
+      rect:
+        serializedVersion: 2
+        x: 1126
+        y: 2444
+        width: 151
+        height: 147
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: DarkWarrior_29
+      rect:
+        serializedVersion: 2
+        x: 1300
+        y: 2444
+        width: 151
+        height: 147
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: DarkWarrior_30
+      rect:
+        serializedVersion: 2
+        x: 8
+        y: 2273
+        width: 153
+        height: 158
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: DarkWarrior_31
+      rect:
+        serializedVersion: 2
+        x: 181
+        y: 2273
+        width: 154
+        height: 156
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: DarkWarrior_32
+      rect:
+        serializedVersion: 2
+        x: 355
+        y: 2276
+        width: 155
+        height: 148
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: DarkWarrior_33
+      rect:
+        serializedVersion: 2
+        x: 539
+        y: 2276
+        width: 153
+        height: 151
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: DarkWarrior_34
+      rect:
+        serializedVersion: 2
+        x: 718
+        y: 2273
+        width: 153
+        height: 154
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: DarkWarrior_35
+      rect:
+        serializedVersion: 2
+        x: 893
+        y: 2275
+        width: 155
+        height: 152
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: DarkWarrior_36
+      rect:
+        serializedVersion: 2
+        x: 1074
+        y: 2275
+        width: 153
+        height: 147
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: DarkWarrior_37
+      rect:
+        serializedVersion: 2
+        x: 1255
+        y: 2275
+        width: 153
+        height: 149
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: DarkWarrior_38
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 2120
+        width: 152
+        height: 145
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: DarkWarrior_39
+      rect:
+        serializedVersion: 2
+        x: 191
+        y: 2120
+        width: 156
+        height: 149
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: DarkWarrior_40
+      rect:
+        serializedVersion: 2
+        x: 372
+        y: 2120
+        width: 156
+        height: 148
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: DarkWarrior_41
+      rect:
+        serializedVersion: 2
+        x: 548
+        y: 2120
+        width: 173
+        height: 137
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: DarkWarrior_42
+      rect:
+        serializedVersion: 2
+        x: 750
+        y: 2120
+        width: 140
+        height: 129
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: DarkWarrior_43
+      rect:
+        serializedVersion: 2
+        x: 932
+        y: 2120
+        width: 141
+        height: 131
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: DarkWarrior_44
+      rect:
+        serializedVersion: 2
+        x: 1093
+        y: 2117
+        width: 174
+        height: 137
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: DarkWarrior_45
+      rect:
+        serializedVersion: 2
+        x: 1293
+        y: 2113
+        width: 151
+        height: 145
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: DarkWarrior_77
+      rect:
+        serializedVersion: 2
+        x: 13
+        y: 1840
+        width: 166
+        height: 130
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: DarkWarrior_78
+      rect:
+        serializedVersion: 2
+        x: 213
+        y: 1836
+        width: 148
+        height: 146
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: DarkWarrior_79
+      rect:
+        serializedVersion: 2
+        x: 386
+        y: 1836
+        width: 142
+        height: 163
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: DarkWarrior_80
+      rect:
+        serializedVersion: 2
+        x: 544
+        y: 1857
+        width: 173
+        height: 136
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: DarkWarrior_81
+      rect:
+        serializedVersion: 2
+        x: 736
+        y: 1826
+        width: 141
+        height: 130
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: DarkWarrior_82
+      rect:
+        serializedVersion: 2
+        x: 915
+        y: 1819
+        width: 165
+        height: 137
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: DarkWarrior_83
+      rect:
+        serializedVersion: 2
+        x: 1104
+        y: 1815
+        width: 151
+        height: 145
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: DarkWarrior_84
+      rect:
+        serializedVersion: 2
+        x: 34
+        y: 1651
+        width: 149
+        height: 149
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: DarkWarrior_85
+      rect:
+        serializedVersion: 2
+        x: 215
+        y: 1651
+        width: 158
+        height: 148
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: DarkWarrior_86
+      rect:
+        serializedVersion: 2
+        x: 394
+        y: 1651
+        width: 159
+        height: 148
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: DarkWarrior_111
+      rect:
+        serializedVersion: 2
+        x: 20
+        y: 1462
+        width: 182
+        height: 148
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: DarkWarrior_112
+      rect:
+        serializedVersion: 2
+        x: 213
+        y: 1462
+        width: 199
+        height: 148
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: DarkWarrior_113
+      rect:
+        serializedVersion: 2
+        x: 426
+        y: 1461
+        width: 167
+        height: 149
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: DarkWarrior_114
+      rect:
+        serializedVersion: 2
+        x: 621
+        y: 1459
+        width: 161
+        height: 149
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: DarkWarrior_115
+      rect:
+        serializedVersion: 2
+        x: 802
+        y: 1459
+        width: 159
+        height: 148
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: DarkWarrior_116
+      rect:
+        serializedVersion: 2
+        x: 35
+        y: 1274
+        width: 142
+        height: 165
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: DarkWarrior_117
+      rect:
+        serializedVersion: 2
+        x: 201
+        y: 1274
+        width: 145
+        height: 155
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: DarkWarrior_118
+      rect:
+        serializedVersion: 2
+        x: 362
+        y: 1276
+        width: 168
+        height: 145
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: DarkWarrior_119
+      rect:
+        serializedVersion: 2
+        x: 544
+        y: 1276
+        width: 151
+        height: 132
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: DarkWarrior_120
+      rect:
+        serializedVersion: 2
+        x: 717
+        y: 1276
+        width: 202
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: DarkWarrior_121
+      rect:
+        serializedVersion: 2
+        x: 942
+        y: 1276
+        width: 204
+        height: 131
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: DarkWarrior_122
+      rect:
+        serializedVersion: 2
+        x: 1164
+        y: 1276
+        width: 167
+        height: 131
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: DarkWarrior_123
+      rect:
+        serializedVersion: 2
+        x: 1362
+        y: 1276
+        width: 147
+        height: 146
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: DarkWarrior_124
+      rect:
+        serializedVersion: 2
+        x: 30
+        y: 1089
+        width: 149
+        height: 151
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: DarkWarrior_125
+      rect:
+        serializedVersion: 2
+        x: 198
+        y: 1089
+        width: 166
+        height: 144
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: DarkWarrior_126
+      rect:
+        serializedVersion: 2
+        x: 386
+        y: 1089
+        width: 142
+        height: 152
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: DarkWarrior_127
+      rect:
+        serializedVersion: 2
+        x: 551
+        y: 1089
+        width: 139
+        height: 151
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: DarkWarrior_128
+      rect:
+        serializedVersion: 2
+        x: 713
+        y: 1089
+        width: 160
+        height: 143
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: DarkWarrior_129
+      rect:
+        serializedVersion: 2
+        x: 893
+        y: 1088
+        width: 166
+        height: 130
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: DarkWarrior_130
+      rect:
+        serializedVersion: 2
+        x: 1095
+        y: 1088
+        width: 167
+        height: 130
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: DarkWarrior_150
+      rect:
+        serializedVersion: 2
+        x: 1039
+        y: 943
+        width: 61
+        height: 58
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: DarkWarrior_151
+      rect:
+        serializedVersion: 2
+        x: 1158
+        y: 945
+        width: 65
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: DarkWarrior_152
+      rect:
+        serializedVersion: 2
+        x: 1235
+        y: 943
+        width: 65
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: DarkWarrior_158
+      rect:
+        serializedVersion: 2
+        x: 1315
+        y: 953
+        width: 38
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: DarkWarrior_165
+      rect:
+        serializedVersion: 2
+        x: 19
+        y: 718
+        width: 167
+        height: 144
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: DarkWarrior_166
+      rect:
+        serializedVersion: 2
+        x: 217
+        y: 718
+        width: 141
+        height: 167
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: DarkWarrior_167
+      rect:
+        serializedVersion: 2
+        x: 377
+        y: 718
+        width: 144
+        height: 163
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: DarkWarrior_168
+      rect:
+        serializedVersion: 2
+        x: 544
+        y: 718
+        width: 142
+        height: 163
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: DarkWarrior_169
+      rect:
+        serializedVersion: 2
+        x: 711
+        y: 718
+        width: 144
+        height: 163
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: DarkWarrior_170
+      rect:
+        serializedVersion: 2
+        x: 877
+        y: 718
+        width: 142
+        height: 163
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: DarkWarrior_171
+      rect:
+        serializedVersion: 2
+        x: 1046
+        y: 718
+        width: 142
+        height: 163
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: DarkWarrior_172
+      rect:
+        serializedVersion: 2
+        x: 1213
+        y: 718
+        width: 142
+        height: 163
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: DarkWarrior_173
+      rect:
+        serializedVersion: 2
+        x: 1379
+        y: 718
+        width: 142
+        height: 163
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: DarkWarrior_174
+      rect:
+        serializedVersion: 2
+        x: 35
+        y: 549
+        width: 142
+        height: 164
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: DarkWarrior_175
+      rect:
+        serializedVersion: 2
+        x: 194
+        y: 549
+        width: 142
+        height: 166
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: DarkWarrior_176
+      rect:
+        serializedVersion: 2
+        x: 365
+        y: 549
+        width: 142
+        height: 166
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: DarkWarrior_177
+      rect:
+        serializedVersion: 2
+        x: 526
+        y: 549
+        width: 158
+        height: 158
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: DarkWarrior_178
+      rect:
+        serializedVersion: 2
+        x: 702
+        y: 549
+        width: 160
+        height: 158
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: DarkWarrior_179
+      rect:
+        serializedVersion: 2
+        x: 885
+        y: 549
+        width: 159
+        height: 142
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: DarkWarrior_180
+      rect:
+        serializedVersion: 2
+        x: 1064
+        y: 549
+        width: 159
+        height: 143
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: DarkWarrior_181
+      rect:
+        serializedVersion: 2
+        x: 1267
+        y: 549
+        width: 149
+        height: 149
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: DarkWarrior_182
+      rect:
+        serializedVersion: 2
+        x: 27
+        y: 371
+        width: 139
+        height: 150
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: DarkWarrior_183
+      rect:
+        serializedVersion: 2
+        x: 195
+        y: 371
+        width: 145
+        height: 153
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: DarkWarrior_184
+      rect:
+        serializedVersion: 2
+        x: 364
+        y: 371
+        width: 135
+        height: 154
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: DarkWarrior_185
+      rect:
+        serializedVersion: 2
+        x: 513
+        y: 371
+        width: 168
+        height: 144
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: DarkWarrior_186
+      rect:
+        serializedVersion: 2
+        x: 700
+        y: 371
+        width: 150
+        height: 131
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: DarkWarrior_187
+      rect:
+        serializedVersion: 2
+        x: 875
+        y: 366
+        width: 202
+        height: 129
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: DarkWarrior_188
+      rect:
+        serializedVersion: 2
+        x: 1097
+        y: 366
+        width: 205
+        height: 130
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: DarkWarrior_189
+      rect:
+        serializedVersion: 2
+        x: 1329
+        y: 362
+        width: 152
+        height: 145
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: DarkWarrior_190
+      rect:
+        serializedVersion: 2
+        x: 24
+        y: 177
+        width: 159
+        height: 148
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: DarkWarrior_191
+      rect:
+        serializedVersion: 2
+        x: 198
+        y: 177
+        width: 175
+        height: 148
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: DarkWarrior_192
+      rect:
+        serializedVersion: 2
+        x: 383
+        y: 177
+        width: 163
+        height: 145
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: DarkWarrior_193
+      rect:
+        serializedVersion: 2
+        x: 562
+        y: 198
+        width: 207
+        height: 94
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: DarkWarrior_194
+      rect:
+        serializedVersion: 2
+        x: 788
+        y: 195
+        width: 191
+        height: 86
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: DarkWarrior_195
+      rect:
+        serializedVersion: 2
+        x: 1002
+        y: 187
+        width: 206
+        height: 72
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: DarkWarrior_196
+      rect:
+        serializedVersion: 2
+        x: 1228
+        y: 177
+        width: 203
+        height: 79
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: DarkWarrior_197
+      rect:
+        serializedVersion: 2
+        x: 19
+        y: 41
+        width: 202
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: DarkWarrior_198
+      rect:
+        serializedVersion: 2
+        x: 235
+        y: 31
+        width: 203
+        height: 79
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: DarkWarrior_202
+      rect:
+        serializedVersion: 2
+        x: 597
+        y: 74
+        width: 4
+        height: 4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: DarkWarrior_46
+      rect:
+        serializedVersion: 2
+        x: 29
+        y: 2022
+        width: 51
+        height: 72
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: DarkWarrior_47
+      rect:
+        serializedVersion: 2
+        x: 93
+        y: 2024
+        width: 50
+        height: 70
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: DarkWarrior_48
+      rect:
+        serializedVersion: 2
+        x: 154
+        y: 2022
+        width: 56
+        height: 73
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: DarkWarrior_49
+      rect:
+        serializedVersion: 2
+        x: 223
+        y: 2024
+        width: 61
+        height: 69
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: DarkWarrior_50
+      rect:
+        serializedVersion: 2
+        x: 293
+        y: 2023
+        width: 69
+        height: 71
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: DarkWarrior_51
+      rect:
+        serializedVersion: 2
+        x: 375
+        y: 2024
+        width: 101
+        height: 72
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: DarkWarrior_52
+      rect:
+        serializedVersion: 2
+        x: 484
+        y: 2009
+        width: 141
+        height: 86
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: DarkWarrior_53
+      rect:
+        serializedVersion: 2
+        x: 628
+        y: 2011
+        width: 98
+        height: 84
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: DarkWarrior_54
+      rect:
+        serializedVersion: 2
+        x: 734
+        y: 2005
+        width: 83
+        height: 49
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: DarkWarrior_55
+      rect:
+        serializedVersion: 2
+        x: 820
+        y: 2015
+        width: 61
+        height: 77
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: DarkWarrior_56
+      rect:
+        serializedVersion: 2
+        x: 986
+        y: 2020
+        width: 74
+        height: 73
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: DarkWarrior_57
+      rect:
+        serializedVersion: 2
+        x: 1104
+        y: 2005
+        width: 75
+        height: 87
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: DarkWarrior_58
+      rect:
+        serializedVersion: 2
+        x: 1188
+        y: 2010
+        width: 60
+        height: 76
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: DarkWarrior_59
+      rect:
+        serializedVersion: 2
+        x: 1257
+        y: 2012
+        width: 67
+        height: 73
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: DarkWarrior_60
+      rect:
+        serializedVersion: 2
+        x: 1330
+        y: 2009
+        width: 73
+        height: 85
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: DarkWarrior_62
+      rect:
+        serializedVersion: 2
+        x: 562
+        y: 1651
+        width: 157
+        height: 150
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: DarkWarrior_61
+      rect:
+        serializedVersion: 2
+        x: 741
+        y: 1650
+        width: 127
+        height: 150
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: DarkWarrior_63
+      rect:
+        serializedVersion: 2
+        x: 880
+        y: 1651
+        width: 95
+        height: 149
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: DarkWarrior_64
+      rect:
+        serializedVersion: 2
+        x: 29
+        y: 918
+        width: 129
+        height: 146
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: DarkWarrior_65
+      rect:
+        serializedVersion: 2
+        x: 195
+        y: 919
+        width: 119
+        height: 144
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: DarkWarrior_66
+      rect:
+        serializedVersion: 2
+        x: 335
+        y: 920
+        width: 116
+        height: 144
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: DarkWarrior_67
+      rect:
+        serializedVersion: 2
+        x: 480
+        y: 923
+        width: 117
+        height: 140
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: DarkWarrior_68
+      rect:
+        serializedVersion: 2
+        x: 619
+        y: 926
+        width: 113
+        height: 137
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: DarkWarrior_69
+      rect:
+        serializedVersion: 2
+        x: 752
+        y: 925
+        width: 99
+        height: 138
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: DarkWarrior_70
+      rect:
+        serializedVersion: 2
+        x: 863
+        y: 924
+        width: 81
+        height: 140
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: DarkWarrior_71
+      rect:
+        serializedVersion: 2
+        x: 961
+        y: 924
+        width: 51
+        height: 140
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: DarkWarrior_72
+      rect:
+        serializedVersion: 2
+        x: 458
+        y: 34
+        width: 208
+        height: 76
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: DarkWarrior_73
+      rect:
+        serializedVersion: 2
+        x: 677
+        y: 37
+        width: 91
+        height: 72
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+  spritePackingTag: 
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

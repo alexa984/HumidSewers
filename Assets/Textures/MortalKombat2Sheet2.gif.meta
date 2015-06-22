@@ -1,0 +1,1925 @@
+fileFormatVersion: 2
+guid: c310d989f2cfcd04b8babf7c15df498e
+timeCreated: 1434970934
+licenseType: Free
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: MortalKombat2Sheet2_0
+    21300002: MortalKombat2Sheet2_1
+    21300004: MortalKombat2Sheet2_2
+    21300006: MortalKombat2Sheet2_3
+    21300008: MortalKombat2Sheet2_4
+    21300010: MortalKombat2Sheet2_5
+    21300012: MortalKombat2Sheet2_6
+    21300014: MortalKombat2Sheet2_7
+    21300016: MortalKombat2Sheet2_8
+    21300018: MortalKombat2Sheet2_9
+    21300020: MortalKombat2Sheet2_10
+    21300022: MortalKombat2Sheet2_11
+    21300024: MortalKombat2Sheet2_12
+    21300026: MortalKombat2Sheet2_13
+    21300028: MortalKombat2Sheet2_14
+    21300030: MortalKombat2Sheet2_15
+    21300032: MortalKombat2Sheet2_16
+    21300034: MortalKombat2Sheet2_17
+    21300036: MortalKombat2Sheet2_18
+    21300038: MortalKombat2Sheet2_19
+    21300040: MortalKombat2Sheet2_20
+    21300042: MortalKombat2Sheet2_21
+    21300044: MortalKombat2Sheet2_22
+    21300046: MortalKombat2Sheet2_23
+    21300048: MortalKombat2Sheet2_24
+    21300050: MortalKombat2Sheet2_25
+    21300052: MortalKombat2Sheet2_26
+    21300054: MortalKombat2Sheet2_27
+    21300056: MortalKombat2Sheet2_28
+    21300058: MortalKombat2Sheet2_29
+    21300060: MortalKombat2Sheet2_30
+    21300062: MortalKombat2Sheet2_31
+    21300064: MortalKombat2Sheet2_32
+    21300066: MortalKombat2Sheet2_33
+    21300068: MortalKombat2Sheet2_34
+    21300070: MortalKombat2Sheet2_35
+    21300072: MortalKombat2Sheet2_36
+    21300074: MortalKombat2Sheet2_37
+    21300076: MortalKombat2Sheet2_38
+    21300078: MortalKombat2Sheet2_39
+    21300080: MortalKombat2Sheet2_40
+    21300082: MortalKombat2Sheet2_41
+    21300084: MortalKombat2Sheet2_42
+    21300086: MortalKombat2Sheet2_43
+    21300088: MortalKombat2Sheet2_44
+    21300090: MortalKombat2Sheet2_45
+    21300092: MortalKombat2Sheet2_46
+    21300094: MortalKombat2Sheet2_47
+    21300096: MortalKombat2Sheet2_48
+    21300098: MortalKombat2Sheet2_49
+    21300100: MortalKombat2Sheet2_50
+    21300102: MortalKombat2Sheet2_51
+    21300104: MortalKombat2Sheet2_52
+    21300106: MortalKombat2Sheet2_53
+    21300108: MortalKombat2Sheet2_54
+    21300110: MortalKombat2Sheet2_55
+    21300112: MortalKombat2Sheet2_56
+    21300114: MortalKombat2Sheet2_57
+    21300116: MortalKombat2Sheet2_58
+    21300118: MortalKombat2Sheet2_59
+    21300120: MortalKombat2Sheet2_60
+    21300122: MortalKombat2Sheet2_61
+    21300124: MortalKombat2Sheet2_62
+    21300126: MortalKombat2Sheet2_63
+    21300128: MortalKombat2Sheet2_64
+    21300130: MortalKombat2Sheet2_65
+    21300132: MortalKombat2Sheet2_66
+    21300134: MortalKombat2Sheet2_67
+    21300136: MortalKombat2Sheet2_68
+    21300138: MortalKombat2Sheet2_69
+    21300140: MortalKombat2Sheet2_70
+    21300142: MortalKombat2Sheet2_71
+    21300144: MortalKombat2Sheet2_72
+    21300146: MortalKombat2Sheet2_73
+    21300148: MortalKombat2Sheet2_74
+    21300150: MortalKombat2Sheet2_75
+    21300152: MortalKombat2Sheet2_76
+    21300154: MortalKombat2Sheet2_77
+    21300156: MortalKombat2Sheet2_78
+    21300158: MortalKombat2Sheet2_79
+    21300160: MortalKombat2Sheet2_80
+    21300162: MortalKombat2Sheet2_81
+    21300164: MortalKombat2Sheet2_82
+    21300166: MortalKombat2Sheet2_83
+    21300168: MortalKombat2Sheet2_84
+    21300170: MortalKombat2Sheet2_85
+    21300172: MortalKombat2Sheet2_86
+    21300174: MortalKombat2Sheet2_87
+    21300176: MortalKombat2Sheet2_88
+    21300178: MortalKombat2Sheet2_89
+    21300180: MortalKombat2Sheet2_90
+    21300182: MortalKombat2Sheet2_91
+    21300184: MortalKombat2Sheet2_92
+    21300186: MortalKombat2Sheet2_93
+    21300188: MortalKombat2Sheet2_94
+    21300190: MortalKombat2Sheet2_95
+    21300192: MortalKombat2Sheet2_96
+    21300194: MortalKombat2Sheet2_97
+    21300196: MortalKombat2Sheet2_98
+    21300198: MortalKombat2Sheet2_99
+    21300200: MortalKombat2Sheet2_100
+    21300202: MortalKombat2Sheet2_101
+    21300204: MortalKombat2Sheet2_102
+    21300206: MortalKombat2Sheet2_103
+    21300208: MortalKombat2Sheet2_104
+    21300210: MortalKombat2Sheet2_105
+    21300212: MortalKombat2Sheet2_106
+    21300214: MortalKombat2Sheet2_107
+    21300216: MortalKombat2Sheet2_108
+    21300218: MortalKombat2Sheet2_109
+    21300220: MortalKombat2Sheet2_110
+    21300222: MortalKombat2Sheet2_111
+    21300224: MortalKombat2Sheet2_112
+    21300226: MortalKombat2Sheet2_113
+    21300228: MortalKombat2Sheet2_114
+    21300230: MortalKombat2Sheet2_115
+    21300232: MortalKombat2Sheet2_116
+    21300234: MortalKombat2Sheet2_117
+    21300236: MortalKombat2Sheet2_118
+    21300238: MortalKombat2Sheet2_119
+    21300240: MortalKombat2Sheet2_120
+    21300242: MortalKombat2Sheet2_121
+    21300244: MortalKombat2Sheet2_122
+    21300246: MortalKombat2Sheet2_123
+    21300248: MortalKombat2Sheet2_124
+    21300250: MortalKombat2Sheet2_125
+    21300252: MortalKombat2Sheet2_126
+    21300254: MortalKombat2Sheet2_127
+    21300256: MortalKombat2Sheet2_128
+    21300258: MortalKombat2Sheet2_129
+    21300260: MortalKombat2Sheet2_130
+    21300262: MortalKombat2Sheet2_131
+    21300264: MortalKombat2Sheet2_132
+    21300266: MortalKombat2Sheet2_133
+    21300268: MortalKombat2Sheet2_134
+    21300270: MortalKombat2Sheet2_135
+    21300272: MortalKombat2Sheet2_136
+    21300274: MortalKombat2Sheet2_137
+    21300276: MortalKombat2Sheet2_138
+    21300278: MortalKombat2Sheet2_139
+    21300280: MortalKombat2Sheet2_140
+    21300282: MortalKombat2Sheet2_141
+    21300284: MortalKombat2Sheet2_142
+    21300286: MortalKombat2Sheet2_143
+    21300288: MortalKombat2Sheet2_144
+    21300290: MortalKombat2Sheet2_145
+    21300292: MortalKombat2Sheet2_146
+    21300294: MortalKombat2Sheet2_147
+    21300296: MortalKombat2Sheet2_148
+    21300298: MortalKombat2Sheet2_149
+    21300300: MortalKombat2Sheet2_150
+    21300302: MortalKombat2Sheet2_151
+    21300304: MortalKombat2Sheet2_152
+    21300306: MortalKombat2Sheet2_153
+    21300308: MortalKombat2Sheet2_154
+    21300310: MortalKombat2Sheet2_155
+    21300312: MortalKombat2Sheet2_156
+    21300314: MortalKombat2Sheet2_157
+    21300316: MortalKombat2Sheet2_158
+    21300318: MortalKombat2Sheet2_159
+    21300320: MortalKombat2Sheet2_160
+    21300322: MortalKombat2Sheet2_161
+    21300324: MortalKombat2Sheet2_162
+    21300326: MortalKombat2Sheet2_163
+    21300328: MortalKombat2Sheet2_164
+    21300330: MortalKombat2Sheet2_165
+    21300332: MortalKombat2Sheet2_166
+    21300334: MortalKombat2Sheet2_167
+    21300336: MortalKombat2Sheet2_168
+    21300338: MortalKombat2Sheet2_169
+  serializedVersion: 2
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 1
+    linearTexture: 0
+    correctGamma: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: .25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 0
+  cubemapConvolution: 0
+  cubemapConvolutionSteps: 8
+  cubemapConvolutionExponent: 1.5
+  seamlessCubemap: 0
+  textureFormat: -1
+  maxTextureSize: 2048
+  textureSettings:
+    filterMode: -1
+    aniso: 16
+    mipBias: -1
+    wrapMode: 1
+  nPOTScale: 0
+  lightmap: 0
+  rGBM: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: .5, y: .5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 100
+  alphaIsTransparency: 1
+  textureType: 8
+  buildTargetSettings: []
+  spriteSheet:
+    sprites:
+    - name: MortalKombat2Sheet2_0
+      rect:
+        serializedVersion: 2
+        x: 63
+        y: 2279
+        width: 93
+        height: 113
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: MortalKombat2Sheet2_1
+      rect:
+        serializedVersion: 2
+        x: 169
+        y: 2279
+        width: 72
+        height: 108
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: MortalKombat2Sheet2_2
+      rect:
+        serializedVersion: 2
+        x: 254
+        y: 2279
+        width: 47
+        height: 105
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: MortalKombat2Sheet2_3
+      rect:
+        serializedVersion: 2
+        x: 312
+        y: 2279
+        width: 45
+        height: 104
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: MortalKombat2Sheet2_4
+      rect:
+        serializedVersion: 2
+        x: 365
+        y: 2279
+        width: 45
+        height: 104
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: MortalKombat2Sheet2_5
+      rect:
+        serializedVersion: 2
+        x: 421
+        y: 2279
+        width: 47
+        height: 105
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: MortalKombat2Sheet2_6
+      rect:
+        serializedVersion: 2
+        x: 481
+        y: 2279
+        width: 72
+        height: 108
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: MortalKombat2Sheet2_7
+      rect:
+        serializedVersion: 2
+        x: 566
+        y: 2279
+        width: 94
+        height: 113
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: MortalKombat2Sheet2_8
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 2136
+        width: 103
+        height: 139
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: MortalKombat2Sheet2_9
+      rect:
+        serializedVersion: 2
+        x: 114
+        y: 2136
+        width: 112
+        height: 129
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: MortalKombat2Sheet2_10
+      rect:
+        serializedVersion: 2
+        x: 235
+        y: 2136
+        width: 122
+        height: 121
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: MortalKombat2Sheet2_11
+      rect:
+        serializedVersion: 2
+        x: 365
+        y: 2136
+        width: 122
+        height: 121
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: MortalKombat2Sheet2_12
+      rect:
+        serializedVersion: 2
+        x: 496
+        y: 2136
+        width: 112
+        height: 129
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: MortalKombat2Sheet2_13
+      rect:
+        serializedVersion: 2
+        x: 619
+        y: 2136
+        width: 103
+        height: 139
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: MortalKombat2Sheet2_14
+      rect:
+        serializedVersion: 2
+        x: 38
+        y: 1965
+        width: 106
+        height: 154
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: MortalKombat2Sheet2_15
+      rect:
+        serializedVersion: 2
+        x: 155
+        y: 1965
+        width: 93
+        height: 166
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: MortalKombat2Sheet2_16
+      rect:
+        serializedVersion: 2
+        x: 262
+        y: 1965
+        width: 95
+        height: 153
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: MortalKombat2Sheet2_17
+      rect:
+        serializedVersion: 2
+        x: 365
+        y: 1965
+        width: 95
+        height: 153
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: MortalKombat2Sheet2_18
+      rect:
+        serializedVersion: 2
+        x: 474
+        y: 1965
+        width: 93
+        height: 166
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: MortalKombat2Sheet2_19
+      rect:
+        serializedVersion: 2
+        x: 578
+        y: 1965
+        width: 106
+        height: 154
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: MortalKombat2Sheet2_20
+      rect:
+        serializedVersion: 2
+        x: 101
+        y: 1825
+        width: 131
+        height: 132
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: MortalKombat2Sheet2_21
+      rect:
+        serializedVersion: 2
+        x: 235
+        y: 1821
+        width: 122
+        height: 137
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: MortalKombat2Sheet2_22
+      rect:
+        serializedVersion: 2
+        x: 365
+        y: 1821
+        width: 122
+        height: 137
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: MortalKombat2Sheet2_23
+      rect:
+        serializedVersion: 2
+        x: 490
+        y: 1825
+        width: 131
+        height: 132
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: MortalKombat2Sheet2_24
+      rect:
+        serializedVersion: 2
+        x: 226
+        y: 1681
+        width: 131
+        height: 132
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: MortalKombat2Sheet2_25
+      rect:
+        serializedVersion: 2
+        x: 365
+        y: 1681
+        width: 131
+        height: 132
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: MortalKombat2Sheet2_26
+      rect:
+        serializedVersion: 2
+        x: 155
+        y: 1574
+        width: 54
+        height: 105
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: MortalKombat2Sheet2_27
+      rect:
+        serializedVersion: 2
+        x: 226
+        y: 1574
+        width: 70
+        height: 65
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: MortalKombat2Sheet2_28
+      rect:
+        serializedVersion: 2
+        x: 311
+        y: 1574
+        width: 46
+        height: 83
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: MortalKombat2Sheet2_29
+      rect:
+        serializedVersion: 2
+        x: 365
+        y: 1574
+        width: 46
+        height: 83
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: MortalKombat2Sheet2_30
+      rect:
+        serializedVersion: 2
+        x: 426
+        y: 1574
+        width: 70
+        height: 65
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: MortalKombat2Sheet2_31
+      rect:
+        serializedVersion: 2
+        x: 513
+        y: 1574
+        width: 54
+        height: 105
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: MortalKombat2Sheet2_32
+      rect:
+        serializedVersion: 2
+        x: 164
+        y: 1461
+        width: 59
+        height: 96
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: MortalKombat2Sheet2_33
+      rect:
+        serializedVersion: 2
+        x: 234
+        y: 1461
+        width: 45
+        height: 108
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: MortalKombat2Sheet2_34
+      rect:
+        serializedVersion: 2
+        x: 294
+        y: 1461
+        width: 63
+        height: 93
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: MortalKombat2Sheet2_35
+      rect:
+        serializedVersion: 2
+        x: 365
+        y: 1461
+        width: 63
+        height: 93
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: MortalKombat2Sheet2_36
+      rect:
+        serializedVersion: 2
+        x: 443
+        y: 1461
+        width: 45
+        height: 108
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: MortalKombat2Sheet2_37
+      rect:
+        serializedVersion: 2
+        x: 499
+        y: 1461
+        width: 59
+        height: 96
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: MortalKombat2Sheet2_38
+      rect:
+        serializedVersion: 2
+        x: 218
+        y: 1376
+        width: 47
+        height: 83
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: MortalKombat2Sheet2_39
+      rect:
+        serializedVersion: 2
+        x: 282
+        y: 1376
+        width: 75
+        height: 64
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: MortalKombat2Sheet2_40
+      rect:
+        serializedVersion: 2
+        x: 365
+        y: 1376
+        width: 75
+        height: 64
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: MortalKombat2Sheet2_41
+      rect:
+        serializedVersion: 2
+        x: 457
+        y: 1376
+        width: 47
+        height: 83
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: MortalKombat2Sheet2_42
+      rect:
+        serializedVersion: 2
+        x: 181
+        y: 1267
+        width: 46
+        height: 101
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: MortalKombat2Sheet2_43
+      rect:
+        serializedVersion: 2
+        x: 240
+        y: 1267
+        width: 60
+        height: 95
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: MortalKombat2Sheet2_44
+      rect:
+        serializedVersion: 2
+        x: 312
+        y: 1267
+        width: 45
+        height: 102
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: MortalKombat2Sheet2_45
+      rect:
+        serializedVersion: 2
+        x: 365
+        y: 1267
+        width: 45
+        height: 102
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: MortalKombat2Sheet2_46
+      rect:
+        serializedVersion: 2
+        x: 422
+        y: 1267
+        width: 60
+        height: 95
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: MortalKombat2Sheet2_47
+      rect:
+        serializedVersion: 2
+        x: 495
+        y: 1267
+        width: 46
+        height: 101
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: MortalKombat2Sheet2_48
+      rect:
+        serializedVersion: 2
+        x: 261
+        y: 1197
+        width: 30
+        height: 66
+      alignment: 2
+      pivot: {x: .5, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: MortalKombat2Sheet2_49
+      rect:
+        serializedVersion: 2
+        x: 298
+        y: 1197
+        width: 27
+        height: 66
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: MortalKombat2Sheet2_50
+      rect:
+        serializedVersion: 2
+        x: 331
+        y: 1197
+        width: 27
+        height: 66
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: MortalKombat2Sheet2_51
+      rect:
+        serializedVersion: 2
+        x: 364
+        y: 1197
+        width: 26
+        height: 66
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: MortalKombat2Sheet2_52
+      rect:
+        serializedVersion: 2
+        x: 395
+        y: 1197
+        width: 27
+        height: 66
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: MortalKombat2Sheet2_53
+      rect:
+        serializedVersion: 2
+        x: 427
+        y: 1197
+        width: 27
+        height: 66
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: MortalKombat2Sheet2_54
+      rect:
+        serializedVersion: 2
+        x: 203
+        y: 1095
+        width: 35
+        height: 83
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: MortalKombat2Sheet2_55
+      rect:
+        serializedVersion: 2
+        x: 252
+        y: 1095
+        width: 36
+        height: 83
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: MortalKombat2Sheet2_56
+      rect:
+        serializedVersion: 2
+        x: 303
+        y: 1095
+        width: 54
+        height: 102
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: MortalKombat2Sheet2_57
+      rect:
+        serializedVersion: 2
+        x: 365
+        y: 1095
+        width: 54
+        height: 102
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: MortalKombat2Sheet2_58
+      rect:
+        serializedVersion: 2
+        x: 434
+        y: 1095
+        width: 36
+        height: 83
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: MortalKombat2Sheet2_59
+      rect:
+        serializedVersion: 2
+        x: 484
+        y: 1095
+        width: 35
+        height: 83
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: MortalKombat2Sheet2_60
+      rect:
+        serializedVersion: 2
+        x: 92
+        y: 1016
+        width: 62
+        height: 32
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: MortalKombat2Sheet2_61
+      rect:
+        serializedVersion: 2
+        x: 163
+        y: 1016
+        width: 53
+        height: 31
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: MortalKombat2Sheet2_62
+      rect:
+        serializedVersion: 2
+        x: 228
+        y: 1016
+        width: 49
+        height: 37
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: MortalKombat2Sheet2_63
+      rect:
+        serializedVersion: 2
+        x: 284
+        y: 1016
+        width: 40
+        height: 64
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: MortalKombat2Sheet2_64
+      rect:
+        serializedVersion: 2
+        x: 337
+        y: 1016
+        width: 20
+        height: 74
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: MortalKombat2Sheet2_65
+      rect:
+        serializedVersion: 2
+        x: 365
+        y: 1016
+        width: 20
+        height: 74
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: MortalKombat2Sheet2_66
+      rect:
+        serializedVersion: 2
+        x: 398
+        y: 1016
+        width: 40
+        height: 64
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: MortalKombat2Sheet2_67
+      rect:
+        serializedVersion: 2
+        x: 445
+        y: 1016
+        width: 49
+        height: 37
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: MortalKombat2Sheet2_68
+      rect:
+        serializedVersion: 2
+        x: 506
+        y: 1016
+        width: 53
+        height: 31
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: MortalKombat2Sheet2_69
+      rect:
+        serializedVersion: 2
+        x: 568
+        y: 1016
+        width: 62
+        height: 32
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: MortalKombat2Sheet2_70
+      rect:
+        serializedVersion: 2
+        x: 244
+        y: 940
+        width: 37
+        height: 72
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: MortalKombat2Sheet2_71
+      rect:
+        serializedVersion: 2
+        x: 290
+        y: 940
+        width: 21
+        height: 73
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: MortalKombat2Sheet2_72
+      rect:
+        serializedVersion: 2
+        x: 324
+        y: 940
+        width: 33
+        height: 51
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: MortalKombat2Sheet2_73
+      rect:
+        serializedVersion: 2
+        x: 365
+        y: 940
+        width: 33
+        height: 51
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: MortalKombat2Sheet2_74
+      rect:
+        serializedVersion: 2
+        x: 411
+        y: 940
+        width: 21
+        height: 73
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: MortalKombat2Sheet2_75
+      rect:
+        serializedVersion: 2
+        x: 441
+        y: 940
+        width: 37
+        height: 72
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: MortalKombat2Sheet2_76
+      rect:
+        serializedVersion: 2
+        x: 124
+        y: 885
+        width: 41
+        height: 32
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: MortalKombat2Sheet2_77
+      rect:
+        serializedVersion: 2
+        x: 169
+        y: 885
+        width: 41
+        height: 32
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: MortalKombat2Sheet2_78
+      rect:
+        serializedVersion: 2
+        x: 213
+        y: 885
+        width: 31
+        height: 53
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: MortalKombat2Sheet2_79
+      rect:
+        serializedVersion: 2
+        x: 255
+        y: 885
+        width: 43
+        height: 34
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: MortalKombat2Sheet2_80
+      rect:
+        serializedVersion: 2
+        x: 306
+        y: 885
+        width: 51
+        height: 27
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: MortalKombat2Sheet2_81
+      rect:
+        serializedVersion: 2
+        x: 365
+        y: 885
+        width: 51
+        height: 27
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: MortalKombat2Sheet2_82
+      rect:
+        serializedVersion: 2
+        x: 424
+        y: 885
+        width: 43
+        height: 34
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: MortalKombat2Sheet2_83
+      rect:
+        serializedVersion: 2
+        x: 478
+        y: 885
+        width: 31
+        height: 53
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: MortalKombat2Sheet2_84
+      rect:
+        serializedVersion: 2
+        x: 512
+        y: 885
+        width: 41
+        height: 32
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: MortalKombat2Sheet2_85
+      rect:
+        serializedVersion: 2
+        x: 557
+        y: 885
+        width: 41
+        height: 32
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: MortalKombat2Sheet2_86
+      rect:
+        serializedVersion: 2
+        x: 210
+        y: 853
+        width: 15
+        height: 24
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: MortalKombat2Sheet2_87
+      rect:
+        serializedVersion: 2
+        x: 234
+        y: 853
+        width: 19
+        height: 20
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: MortalKombat2Sheet2_88
+      rect:
+        serializedVersion: 2
+        x: 263
+        y: 853
+        width: 16
+        height: 22
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: MortalKombat2Sheet2_89
+      rect:
+        serializedVersion: 2
+        x: 284
+        y: 853
+        width: 24
+        height: 15
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: MortalKombat2Sheet2_90
+      rect:
+        serializedVersion: 2
+        x: 312
+        y: 853
+        width: 20
+        height: 19
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: MortalKombat2Sheet2_91
+      rect:
+        serializedVersion: 2
+        x: 335
+        y: 853
+        width: 22
+        height: 15
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: MortalKombat2Sheet2_92
+      rect:
+        serializedVersion: 2
+        x: 365
+        y: 853
+        width: 22
+        height: 15
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: MortalKombat2Sheet2_93
+      rect:
+        serializedVersion: 2
+        x: 390
+        y: 853
+        width: 21
+        height: 19
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: MortalKombat2Sheet2_94
+      rect:
+        serializedVersion: 2
+        x: 414
+        y: 853
+        width: 24
+        height: 15
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: MortalKombat2Sheet2_95
+      rect:
+        serializedVersion: 2
+        x: 443
+        y: 853
+        width: 16
+        height: 22
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: MortalKombat2Sheet2_96
+      rect:
+        serializedVersion: 2
+        x: 469
+        y: 853
+        width: 19
+        height: 20
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: MortalKombat2Sheet2_97
+      rect:
+        serializedVersion: 2
+        x: 497
+        y: 853
+        width: 15
+        height: 24
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: MortalKombat2Sheet2_98
+      rect:
+        serializedVersion: 2
+        x: 221
+        y: 825
+        width: 16
+        height: 24
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: MortalKombat2Sheet2_99
+      rect:
+        serializedVersion: 2
+        x: 242
+        y: 825
+        width: 19
+        height: 20
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: MortalKombat2Sheet2_100
+      rect:
+        serializedVersion: 2
+        x: 265
+        y: 825
+        width: 15
+        height: 22
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: MortalKombat2Sheet2_101
+      rect:
+        serializedVersion: 2
+        x: 284
+        y: 825
+        width: 24
+        height: 15
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: MortalKombat2Sheet2_102
+      rect:
+        serializedVersion: 2
+        x: 311
+        y: 825
+        width: 20
+        height: 19
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: MortalKombat2Sheet2_103
+      rect:
+        serializedVersion: 2
+        x: 335
+        y: 825
+        width: 22
+        height: 15
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: MortalKombat2Sheet2_104
+      rect:
+        serializedVersion: 2
+        x: 365
+        y: 825
+        width: 22
+        height: 15
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: MortalKombat2Sheet2_105
+      rect:
+        serializedVersion: 2
+        x: 391
+        y: 825
+        width: 20
+        height: 19
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: MortalKombat2Sheet2_106
+      rect:
+        serializedVersion: 2
+        x: 414
+        y: 825
+        width: 24
+        height: 15
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: MortalKombat2Sheet2_107
+      rect:
+        serializedVersion: 2
+        x: 442
+        y: 825
+        width: 15
+        height: 22
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: MortalKombat2Sheet2_108
+      rect:
+        serializedVersion: 2
+        x: 461
+        y: 825
+        width: 19
+        height: 20
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: MortalKombat2Sheet2_109
+      rect:
+        serializedVersion: 2
+        x: 485
+        y: 825
+        width: 16
+        height: 24
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: MortalKombat2Sheet2_110
+      rect:
+        serializedVersion: 2
+        x: 198
+        y: 729
+        width: 20
+        height: 38
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: MortalKombat2Sheet2_111
+      rect:
+        serializedVersion: 2
+        x: 227
+        y: 729
+        width: 24
+        height: 91
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: MortalKombat2Sheet2_112
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 729
+        width: 49
+        height: 85
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: MortalKombat2Sheet2_113
+      rect:
+        serializedVersion: 2
+        x: 315
+        y: 729
+        width: 42
+        height: 68
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: MortalKombat2Sheet2_114
+      rect:
+        serializedVersion: 2
+        x: 365
+        y: 729
+        width: 42
+        height: 68
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: MortalKombat2Sheet2_115
+      rect:
+        serializedVersion: 2
+        x: 417
+        y: 729
+        width: 49
+        height: 85
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: MortalKombat2Sheet2_116
+      rect:
+        serializedVersion: 2
+        x: 471
+        y: 729
+        width: 24
+        height: 91
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: MortalKombat2Sheet2_117
+      rect:
+        serializedVersion: 2
+        x: 504
+        y: 729
+        width: 20
+        height: 38
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: MortalKombat2Sheet2_118
+      rect:
+        serializedVersion: 2
+        x: 161
+        y: 653
+        width: 37
+        height: 68
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: MortalKombat2Sheet2_119
+      rect:
+        serializedVersion: 2
+        x: 209
+        y: 653
+        width: 64
+        height: 50
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: MortalKombat2Sheet2_120
+      rect:
+        serializedVersion: 2
+        x: 284
+        y: 653
+        width: 73
+        height: 32
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: MortalKombat2Sheet2_121
+      rect:
+        serializedVersion: 2
+        x: 365
+        y: 653
+        width: 73
+        height: 32
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: MortalKombat2Sheet2_122
+      rect:
+        serializedVersion: 2
+        x: 449
+        y: 653
+        width: 64
+        height: 50
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: MortalKombat2Sheet2_123
+      rect:
+        serializedVersion: 2
+        x: 524
+        y: 653
+        width: 37
+        height: 68
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: MortalKombat2Sheet2_124
+      rect:
+        serializedVersion: 2
+        x: 184
+        y: 538
+        width: 76
+        height: 104
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: MortalKombat2Sheet2_125
+      rect:
+        serializedVersion: 2
+        x: 277
+        y: 538
+        width: 80
+        height: 106
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: MortalKombat2Sheet2_126
+      rect:
+        serializedVersion: 2
+        x: 365
+        y: 538
+        width: 80
+        height: 106
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: MortalKombat2Sheet2_127
+      rect:
+        serializedVersion: 2
+        x: 462
+        y: 538
+        width: 76
+        height: 104
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: MortalKombat2Sheet2_128
+      rect:
+        serializedVersion: 2
+        x: 213
+        y: 432
+        width: 31
+        height: 101
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: MortalKombat2Sheet2_129
+      rect:
+        serializedVersion: 2
+        x: 248
+        y: 432
+        width: 32
+        height: 96
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: MortalKombat2Sheet2_130
+      rect:
+        serializedVersion: 2
+        x: 286
+        y: 432
+        width: 32
+        height: 91
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: MortalKombat2Sheet2_131
+      rect:
+        serializedVersion: 2
+        x: 325
+        y: 433
+        width: 32
+        height: 87
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: MortalKombat2Sheet2_132
+      rect:
+        serializedVersion: 2
+        x: 365
+        y: 433
+        width: 32
+        height: 87
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: MortalKombat2Sheet2_133
+      rect:
+        serializedVersion: 2
+        x: 404
+        y: 432
+        width: 32
+        height: 91
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: MortalKombat2Sheet2_134
+      rect:
+        serializedVersion: 2
+        x: 442
+        y: 432
+        width: 32
+        height: 96
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: MortalKombat2Sheet2_135
+      rect:
+        serializedVersion: 2
+        x: 478
+        y: 432
+        width: 31
+        height: 101
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: MortalKombat2Sheet2_136
+      rect:
+        serializedVersion: 2
+        x: 142
+        y: 323
+        width: 34
+        height: 20
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: MortalKombat2Sheet2_137
+      rect:
+        serializedVersion: 2
+        x: 184
+        y: 323
+        width: 49
+        height: 99
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: MortalKombat2Sheet2_138
+      rect:
+        serializedVersion: 2
+        x: 242
+        y: 323
+        width: 34
+        height: 90
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: MortalKombat2Sheet2_139
+      rect:
+        serializedVersion: 2
+        x: 292
+        y: 323
+        width: 24
+        height: 96
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: MortalKombat2Sheet2_140
+      rect:
+        serializedVersion: 2
+        x: 329
+        y: 323
+        width: 28
+        height: 107
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: MortalKombat2Sheet2_141
+      rect:
+        serializedVersion: 2
+        x: 365
+        y: 323
+        width: 28
+        height: 107
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: MortalKombat2Sheet2_142
+      rect:
+        serializedVersion: 2
+        x: 406
+        y: 323
+        width: 24
+        height: 96
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: MortalKombat2Sheet2_143
+      rect:
+        serializedVersion: 2
+        x: 446
+        y: 323
+        width: 34
+        height: 90
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: MortalKombat2Sheet2_144
+      rect:
+        serializedVersion: 2
+        x: 489
+        y: 323
+        width: 49
+        height: 99
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: MortalKombat2Sheet2_145
+      rect:
+        serializedVersion: 2
+        x: 546
+        y: 323
+        width: 34
+        height: 20
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: MortalKombat2Sheet2_146
+      rect:
+        serializedVersion: 2
+        x: 140
+        y: 225
+        width: 58
+        height: 92
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: MortalKombat2Sheet2_147
+      rect:
+        serializedVersion: 2
+        x: 209
+        y: 225
+        width: 70
+        height: 57
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: MortalKombat2Sheet2_148
+      rect:
+        serializedVersion: 2
+        x: 294
+        y: 225
+        width: 44
+        height: 24
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: MortalKombat2Sheet2_149
+      rect:
+        serializedVersion: 2
+        x: 345
+        y: 225
+        width: 12
+        height: 16
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: MortalKombat2Sheet2_150
+      rect:
+        serializedVersion: 2
+        x: 365
+        y: 225
+        width: 12
+        height: 16
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: MortalKombat2Sheet2_151
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 225
+        width: 44
+        height: 24
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: MortalKombat2Sheet2_152
+      rect:
+        serializedVersion: 2
+        x: 443
+        y: 225
+        width: 70
+        height: 57
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: MortalKombat2Sheet2_153
+      rect:
+        serializedVersion: 2
+        x: 524
+        y: 225
+        width: 58
+        height: 92
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: MortalKombat2Sheet2_154
+      rect:
+        serializedVersion: 2
+        x: 292
+        y: 114
+        width: 25
+        height: 108
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: MortalKombat2Sheet2_155
+      rect:
+        serializedVersion: 2
+        x: 328
+        y: 114
+        width: 29
+        height: 104
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: MortalKombat2Sheet2_156
+      rect:
+        serializedVersion: 2
+        x: 365
+        y: 114
+        width: 29
+        height: 104
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: MortalKombat2Sheet2_157
+      rect:
+        serializedVersion: 2
+        x: 405
+        y: 114
+        width: 25
+        height: 108
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: MortalKombat2Sheet2_158
+      rect:
+        serializedVersion: 2
+        x: 51
+        y: 3
+        width: 40
+        height: 102
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: MortalKombat2Sheet2_159
+      rect:
+        serializedVersion: 2
+        x: 99
+        y: 3
+        width: 42
+        height: 105
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: MortalKombat2Sheet2_160
+      rect:
+        serializedVersion: 2
+        x: 152
+        y: 3
+        width: 43
+        height: 106
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: MortalKombat2Sheet2_161
+      rect:
+        serializedVersion: 2
+        x: 209
+        y: 3
+        width: 45
+        height: 107
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: MortalKombat2Sheet2_162
+      rect:
+        serializedVersion: 2
+        x: 263
+        y: 3
+        width: 43
+        height: 105
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: MortalKombat2Sheet2_163
+      rect:
+        serializedVersion: 2
+        x: 318
+        y: 3
+        width: 39
+        height: 105
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: MortalKombat2Sheet2_164
+      rect:
+        serializedVersion: 2
+        x: 365
+        y: 3
+        width: 39
+        height: 105
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: MortalKombat2Sheet2_165
+      rect:
+        serializedVersion: 2
+        x: 416
+        y: 3
+        width: 43
+        height: 105
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: MortalKombat2Sheet2_166
+      rect:
+        serializedVersion: 2
+        x: 468
+        y: 3
+        width: 45
+        height: 107
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: MortalKombat2Sheet2_167
+      rect:
+        serializedVersion: 2
+        x: 527
+        y: 3
+        width: 43
+        height: 106
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: MortalKombat2Sheet2_168
+      rect:
+        serializedVersion: 2
+        x: 581
+        y: 3
+        width: 42
+        height: 105
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: MortalKombat2Sheet2_169
+      rect:
+        serializedVersion: 2
+        x: 631
+        y: 3
+        width: 40
+        height: 102
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+  spritePackingTag: 
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

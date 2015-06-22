@@ -1,0 +1,40 @@
+Initialize engine version: 5.0.1f1 (5a2e8fe35a68)
+GfxDevice: creating device client; threaded=1
+Direct3D:
+    Version:  Direct3D 11.0 [level 11.0]
+    Renderer: Intel(R) HD Graphics (ID=0xf31)
+    Vendor:   Intel
+    VRAM:     128 MB
+Begin MonoManager ReloadAssembly
+Platform assembly: C:\Users\alexandra\Desktop\HumidSewers\HumidSewers_Data\Managed\UnityEngine.dll (this message is harmless)
+Loading C:\Users\alexandra\Desktop\HumidSewers\HumidSewers_Data\Managed\UnityEngine.dll into Unity Child Domain
+Platform assembly: C:\Users\alexandra\Desktop\HumidSewers\HumidSewers_Data\Managed\Assembly-CSharp.dll (this message is harmless)
+Loading C:\Users\alexandra\Desktop\HumidSewers\HumidSewers_Data\Managed\Assembly-CSharp.dll into Unity Child Domain
+Platform assembly: C:\Users\alexandra\Desktop\HumidSewers\HumidSewers_Data\Managed\UnityEngine.UI.dll (this message is harmless)
+Loading C:\Users\alexandra\Desktop\HumidSewers\HumidSewers_Data\Managed\UnityEngine.UI.dll into Unity Child Domain
+- Completed reload, in  0.130 seconds
+desktop: 1366x768 60Hz; virtual: 1366x768 at 0,0
+<RI> Initializing input.
+XInput1_3.dll not found. Trying XInput9_1_0.dll instead...
+<RI> Input initialized.
+<RI> Initialized touch support.
+Platform assembly: C:\Users\alexandra\Desktop\HumidSewers\HumidSewers_Data\Managed\System.Core.dll (this message is harmless)
+Platform assembly: C:\Users\alexandra\Desktop\HumidSewers\HumidSewers_Data\Managed\System.dll (this message is harmless)
+Unloading 2 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 0.798248 ms
+
+Unloading 46 unused Assets to reduce memory usage. Loaded Objects now: 189.
+Total: 0.579899 ms (FindLiveObjects: 0.064275 ms CreateObjectMapping: 0.027411 ms MarkObjects: 0.336502 ms  DeleteObjects: 0.147928 ms)
+
+Unloading 4 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 9.469806 ms
+
+Unloading 2 unused Assets to reduce memory usage. Loaded Objects now: 441.
+Total: 0.484903 ms (FindLiveObjects: 0.072310 ms CreateObjectMapping: 0.043953 ms MarkObjects: 0.353044 ms  DeleteObjects: 0.011815 ms)
+
+Unloading 3 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 1.232582 ms
+
+Unloading 78 unused Assets to reduce memory usage. Loaded Objects now: 220.
+Total: 0.870558 ms (FindLiveObjects: 0.155018 ms CreateObjectMapping: 0.031192 ms MarkObjects: 0.449930 ms  DeleteObjects: 0.228746 ms)
+

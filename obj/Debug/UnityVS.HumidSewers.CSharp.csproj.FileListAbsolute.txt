@@ -1,0 +1,13 @@
+C:\Users\alexandra\Desktop\HumidSewers\Temp\UnityVS_bin\Debug\Assembly-CSharp.dll
+C:\Users\alexandra\Desktop\HumidSewers\Temp\UnityVS_bin\Debug\Assembly-CSharp.pdb
+C:\Users\alexandra\Desktop\HumidSewers\Temp\UnityVS_bin\Debug\UnityEditor.dll
+C:\Users\alexandra\Desktop\HumidSewers\Temp\UnityVS_bin\Debug\UnityEditor.iOS.Extensions.Xcode.dll
+C:\Users\alexandra\Desktop\HumidSewers\Temp\UnityVS_bin\Debug\UnityEngine.dll
+C:\Users\alexandra\Desktop\HumidSewers\Temp\UnityVS_bin\Debug\UnityEngine.UI.dll
+C:\Users\alexandra\Desktop\HumidSewers\Temp\UnityVS_bin\Debug\UnityEditor.xml
+C:\Users\alexandra\Desktop\HumidSewers\Temp\UnityVS_bin\Debug\UnityEditor.iOS.Extensions.Xcode.xml
+C:\Users\alexandra\Desktop\HumidSewers\obj\Debug\Assembly-CSharp.dll
+C:\Users\alexandra\Desktop\HumidSewers\obj\Debug\Assembly-CSharp.pdb
+C:\Users\alexandra\Desktop\HumidSewers\Temp\UnityVS_bin\Debug\UnityEngine.xml
+C:\Users\alexandra\Desktop\HumidSewers\Temp\UnityVS_bin\Debug\UnityEngine.UI.xml
+C:\Users\alexandra\Desktop\HumidSewers\obj\Debug\UnityVS.HumidSewers.CSharp.csprojResolveAssemblyReference.cache
